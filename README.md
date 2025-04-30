@@ -2,8 +2,7 @@
 O Cinetag é uma aplicação web do curso de React da alura. Ele se trata de um site similar a youtube.
 
 ## ✨ Funcionalidades
-Listagem dinâmica de produtos via API Navegação entre paginas "Home" e "Favoritos" Funcionalidade de favoritar vídeos
-
+Listagem dinâmica de produtos via API Navegação entre paginas "Home" e "Detalhes" para detalhes sobre a sessão do filme
 ## 🚀 Tecnologias utilizadas
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
